@@ -1,27 +1,38 @@
-#container {
+$paragraph-color: #ffffff;
+$background-gradient: linear-gradient(
+  11deg,
+  rgba(2, 0, 36, 1) 0%,
+  rgba(121, 9, 60, 1) 35%,
+  rgba(0, 212, 255, 1) 100%
+);
+
+h1 {
   text-align: center;
-
-  position: absolute;
-  left: 0;
-  right: 0;
-  top: 50%;
-  transform: translateY(-50%);
+  color: $paragraph-color;
+  font-weight: 1000;
+  font-size: 5rem;
+  font-family: cursive;
+  margin-top: 115px;
+}
+.wrapper {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 100%;
+  height: 100%;
+  background: $background-gradient;
 }
 
-#container strong {
-  font-size: 20px;
-  line-height: 26px;
+.descrip {
+  color: $paragraph-color;
 }
 
-#container p {
-  font-size: 16px;
-  line-height: 22px;
-
-  color: #8c8c8c;
-
-  margin: 0;
-}
-
-#container a {
-  text-decoration: none;
+.start-button {
+  padding-top: 20px;
+  margin-top: 50px;
+  width: 50%;
+  a {
+    text-decoration: none;
+    color: $paragraph-color;
+  }
 }
