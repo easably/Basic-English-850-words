@@ -13,12 +13,16 @@ const routes: Routes = [
     pathMatch: "full",
   },
   {
-    path: 'categories',
-    loadChildren: () => import('./categories/categories.module').then( m => m.CategoriesPageModule)
+    path: "categories",
+    loadChildren: () =>
+      import("./categories/categories.module").then(
+        (m) => m.CategoriesPageModule
+      ),
   },
   {
-    path: 'math-quiz',
-    loadChildren: () => import('./math-quiz/math-quiz.module').then( m => m.MathQuizPageModule)
+    path: "math-quiz/:id",
+    loadChildren: () =>
+      import("./math-quiz/math-quiz.module").then((m) => m.MathQuizPageModule),
   },
 ];
 

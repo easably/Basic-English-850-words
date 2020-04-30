@@ -1,7 +1,15 @@
 <ion-header>
   <ion-toolbar>
-    <ion-title>2+2 is ...</ion-title>
+    <ion-title>{{questions[currentId].text}}</ion-title>
   </ion-toolbar>
 </ion-header>
 
-<ion-content> </ion-content>
+<ion-content>
+  <div class="button-wrapper" *ngFor="let item of questions">
+    <ion-button expand="block" color="light">{{item.options[0]}}</ion-button>
+  </div>
+</ion-content>
+
+<ion-button (click)="changeId()" [routerLink]="['/math-quiz',currentId]"
+  >Next</ion-button
+>
