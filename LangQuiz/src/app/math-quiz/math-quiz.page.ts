@@ -1,6 +1,7 @@
 import { Component, OnInit } from "@angular/core";
 import { Question } from "../model/Question";
 import { ActivatedRoute } from "@angular/router";
+import { Router } from "@angular/router";
 
 @Component({
   selector: "app-math-quiz",
@@ -8,10 +9,12 @@ import { ActivatedRoute } from "@angular/router";
   styleUrls: ["./math-quiz.page.scss"],
 })
 export class MathQuizPage {
-  constructor(route: ActivatedRoute) {
-    this.currentId = route.snapshot.params["id"];
+  currentId: number = 0;
+  constructor(private route: ActivatedRoute, private router: Router) {
+    this.route.paramMap.subscribe((params) => {
+      this.setId(+params.get("id"));
+    });
   }
-  currentId: number;
   questions: Question[] = [
     {
       id: 1,
@@ -46,8 +49,14 @@ export class MathQuizPage {
   isCorrectAnswer() {}
   isFalseAnswer() {}
   checkAnswer() {}
-  changeId(): number {
-    return ++this.currentId;
+  navigateToNextQuestion() {
+    this.router.navigate(["/math-quiz", this.getId() + 1]);
+  }
+  getId(): number {
+    return this.currentId;
+  }
+  setId(id: number) {
+    this.currentId = id;
   }
   displayNextQuestion() {}
 }

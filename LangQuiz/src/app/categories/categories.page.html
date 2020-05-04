@@ -4,7 +4,7 @@
       <ion-title>Categories</ion-title>
     </ion-toolbar>
   </ion-header>
-  <ion-item [routerLink]='["/math-quiz",0]' color="danger">
+  <ion-item (click)="startQuiz()" color="danger">
     <ion-label>
       Math: For kids
     </ion-label>
