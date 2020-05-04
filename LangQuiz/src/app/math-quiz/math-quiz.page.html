@@ -5,8 +5,8 @@
 </ion-header>
 
 <ion-content>
-  <div class="button-wrapper" *ngFor="let item of questions">
-    <ion-button expand="block" color="light">{{item.options[0]}}</ion-button>
+  <div class="button-wrapper" *ngFor="let item of questions[currentId].options">
+    <ion-button expand="block" color="light">{{item}}</ion-button>
   </div>
 </ion-content>
 
