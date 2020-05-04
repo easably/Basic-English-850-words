@@ -6,7 +6,10 @@
 
 <ion-content>
   <div class="button-wrapper" *ngFor="let item of questions[currentId].options">
-    <ion-button expand="block" color="" (click)="check(item,$event.target)"
+    <ion-button
+      expand="block"
+      color=""
+      (click)="checkAnswer(item,$event.target)"
       >{{item}}</ion-button
     >
   </div>
