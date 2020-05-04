@@ -50,6 +50,7 @@ export class MathQuizPage {
 
   isCorrectAnswer(target): void {
     target.color = "success";
+    this.showNext();
   }
   isFalseAnswer(target): void {
     target.color = "danger";
@@ -67,6 +68,10 @@ export class MathQuizPage {
     option === this.questions[this.currentId].answer
       ? this.isCorrectAnswer(event)
       : this.isFalseAnswer(event);
+  }
+  showNext() {
+    let next = document.querySelector(".next");
+    next.classList.remove("next");
   }
   displayNextQuestion() {}
 }
