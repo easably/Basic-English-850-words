@@ -10,6 +10,8 @@ import { Router } from "@angular/router";
 })
 export class MathQuizPage {
   currentId: number = 0;
+  Iquestions: Question;
+  color: string = "";
   constructor(private route: ActivatedRoute, private router: Router) {
     this.route.paramMap.subscribe((params) => {
       this.setId(+params.get("id"));
@@ -46,9 +48,12 @@ export class MathQuizPage {
     },
   ];
 
-  isCorrectAnswer() {}
-  isFalseAnswer() {}
-  checkAnswer() {}
+  isCorrectAnswer(target): void {
+    target.color = "success";
+  }
+  isFalseAnswer(target): void {
+    target.color = "danger";
+  }
   navigateToNextQuestion() {
     this.router.navigate(["/math-quiz", this.getId() + 1]);
   }
@@ -57,6 +62,11 @@ export class MathQuizPage {
   }
   setId(id: number) {
     this.currentId = id;
+  }
+  checkAnswer(option, event): void {
+    option === this.questions[this.currentId].answer
+      ? this.isCorrectAnswer(event)
+      : this.isFalseAnswer(event);
   }
   displayNextQuestion() {}
 }

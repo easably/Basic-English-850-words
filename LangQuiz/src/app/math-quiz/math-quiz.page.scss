@@ -1,0 +1,9 @@
+@import "../../theme/variables.scss";
+
+.isCorrect {
+  --ion-color-success: #2dd36f;
+}
+
+.isFalse {
+  --ion-color-danger: #eb445a;
+}
