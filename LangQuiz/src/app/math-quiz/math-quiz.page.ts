@@ -1,4 +1,4 @@
-import { Component, OnInit } from "@angular/core";
+import { Component, OnInit, Output } from "@angular/core";
 import { Question } from "../model/Question";
 import { ActivatedRoute } from "@angular/router";
 import { Router } from "@angular/router";
@@ -10,8 +10,9 @@ import { Router } from "@angular/router";
 })
 export class MathQuizPage {
   currentId: number = 0;
-  Iquestions: Question;
   color: string = "";
+  correctAnswersCounter: number = 0;
+
   constructor(private route: ActivatedRoute, private router: Router) {
     this.route.paramMap.subscribe((params) => {
       this.setId(+params.get("id"));
@@ -50,6 +51,7 @@ export class MathQuizPage {
 
   isCorrectAnswer(target): void {
     target.color = "success";
+    this.incrementCorrectAnswersCount();
     this.showNext();
   }
   isFalseAnswer(target): void {
@@ -57,6 +59,10 @@ export class MathQuizPage {
   }
   navigateToNextQuestion() {
     this.router.navigate(["/math-quiz", this.getId() + 1]);
+    if (this.currentId > this.questions.length - 2) {
+      this.showResults();
+    }
+    console.log(this.correctAnswersCounter);
   }
   getId(): number {
     return this.currentId;
@@ -73,5 +79,14 @@ export class MathQuizPage {
     let next = document.querySelector(".next");
     next.classList.remove("next");
   }
-  displayNextQuestion() {}
+  showResults() {
+    this.router.navigate(["/quiz-results"], {
+      state: {
+        correctAnswersCounter: this.correctAnswersCounter,
+      },
+    });
+  }
+  incrementCorrectAnswersCount(): number {
+    return this.correctAnswersCounter++;
+  }
 }
