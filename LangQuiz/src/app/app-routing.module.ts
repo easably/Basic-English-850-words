@@ -25,8 +25,18 @@ const routes: Routes = [
       import("./math-quiz/math-quiz.module").then((m) => m.MathQuizPageModule),
   },
   {
-    path: 'quiz-results',
-    loadChildren: () => import('./quiz-results/quiz-results.module').then( m => m.QuizResultsPageModule)
+    path: "quiz-results",
+    loadChildren: () =>
+      import("./quiz-results/quiz-results.module").then(
+        (m) => m.QuizResultsPageModule
+      ),
+  },
+  {
+    path: "quiz-ielts/:id",
+    loadChildren: () =>
+      import("./quiz-ielts/quiz-ielts.module").then(
+        (m) => m.QuizIELTSPageModule
+      ),
   },
 ];
 

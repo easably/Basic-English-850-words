@@ -1,11 +1,11 @@
 <ion-header>
   <ion-toolbar>
-    <ion-title>{{questions[currentId].text}}</ion-title>
+    <ion-title *ngIf="items!=undefined">{{items[currentId][4]}}</ion-title>
   </ion-toolbar>
 </ion-header>
 
-<ion-content>
-  <div class="button-wrapper" *ngFor="let item of questions[currentId].options">
+<ion-content *ngIf="items!=undefined">
+  <div class="button-wrapper" *ngFor="let item of options">
     <ion-button
       expand="block"
       color=""
