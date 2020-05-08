@@ -1,0 +1,527 @@
+&91=tired=уставать; утомленный@@<font color='#009966'>Adjective</font>
+<font color='#FF0000'>1) </font> depleted of strength or
+energy
+<i> - @@ mothers with crying
+babies</i>
+<i>- too @@ to eat</i>
+<font color='#FF0000'>2) </font>repeated too often
+overfamiliar through overuse
+<font color='#666666'>syn: </font> banal, commonplace,
+hackneyed, old-hat,
+shopworn, stock(a),
+threadbare, timeworn, trite,
+well-worn
+<i>- bromidic sermons</i>
+<i> - his remarks were trite and
+commonplace</i>
+<i>- hackneyed phrases</i>
+<i>- a stock answer</i>
+<i>- repeating threadbare jokes</i>
+<i> - parroting some timeworn
+axiom</i>
+<i> - the trite metaphor `hard as
+nails'</i>
+&92=true=верно; истиный; истинность@@<font color='#009966'>Noun</font>
+<font color='#FF0000'>1) </font>proper alignment
+ the property possessed by
+something that is in correct
+or proper alignment
+<i>- out of @@</i>
+<font color='#009966'>Verb</font>
+<font color='#FF0000'>1) </font> make level, square,
+balanced, or concentric
+<font color='#666666'>syn: </font>@@ up
+<i> - @@ up the cylinder of an
+engine</i>
+<font color='#009966'>Adjective</font>
+<font color='#FF0000'>1) </font> consistent with fact or
+reality
+not false
+<i>- the story is @@</i>
+<i> - 'it is undesirable to
+believe a proposition when
+there is no ground whatever
+for supposing it @@'- B.
+Russell</i>
+<i> - the @@ meaning of the
+statement</i>
+<font color='#FF0000'>2) </font> conforming to definitive
+criteria
+<i> - the horseshoe crab is not a
+@@ crab</i>
+<i> - Pythagoras was the first
+@@ mathematician</i>
+<font color='#FF0000'>3) </font>accurately placed or thrown
+<font color='#666666'>syn: </font>dead on target
+<i>- his aim was @@</i>
+<i>- he was dead on target</i>
+<font color='#FF0000'>4) </font> devoted (sometimes
+fanatically) to a cause or
+concept or truth
+<i> - @@ believers bonded
+together against all who
+disagreed with them</i>
+<font color='#FF0000'>5) </font> expressing or given to
+expressing the truth
+<font color='#666666'>syn: </font>truthful
+<i>- a @@ statement</i>
+<i>- gave truthful testimony</i>
+<i>- a truthful person</i>
+<font color='#FF0000'>6) </font>worthy of being depended on
+<font color='#666666'>syn: </font> dependable, honest,
+reliable, @@(p)
+<i>- a dependable worker</i>
+<i>- an honest working stiff</i>
+<i> - a reliable source of
+information</i>
+<i>- he was @@ to his word</i>
+<i> - I would be @@ for there
+are those who trust me</i>
+<font color='#FF0000'>7) </font>not pretended
+sincerely felt or expressed
+<font color='#666666'>syn: </font> genuine, @@(a),
+unfeigned
+<i>- genuine emotion</i>
+<i> - her interest in people was
+unfeigned</i>
+<i>- @@ grief</i>
+<font color='#FF0000'>8) </font>rightly so called
+<font color='#666666'>syn: </font>@@(a)
+<i>- @@ courage</i>
+<i> - a spirit which @@ men
+have always admired</i>
+<i>- a @@ friend</i>
+<font color='#FF0000'>9) </font> determined with reference
+to the earth's axis rather
+than the magnetic poles
+<font color='#666666'>syn: </font>@@(a)
+<i> - @@ north is geographic
+north</i>
+<font color='#FF0000'>10) </font> having a legally
+established claim
+<font color='#666666'>syn: </font> @@(a), lawful,
+rightful(a)
+<i>- the legitimate heir</i>
+<i>- the @@ and lawful king</i>
+<font color='#FF0000'>11) </font>in tune
+accurate in pitch
+<font color='#666666'>syn: </font>on-key
+<i>- a @@ note</i>
+<font color='#FF0000'>12) </font>accurately fitted
+level
+<font color='#666666'>syn: </font>straight
+<i> - the window frame isn't
+quite @@</i>
+<font color='#009966'>Adverb</font>
+<font color='#FF0000'>1) </font>as acknowledged
+<font color='#666666'>syn: </font> admittedly, avowedly,
+confessedly
+<i> - @@, she is the smartest
+in her class</i>
+&93=violent=сильный@@<font color='#009966'>Adjective</font>
+<font color='#FF0000'>1) </font> acting with or marked by or
+resulting from great force
+or energy or emotional
+intensity
+<i>- a @@ attack</i>
+<i>- a @@ person</i>
+<i>- @@ feelings</i>
+<i>- a @@ rage</i>
+<i>- felt a @@ dislike</i>
+<font color='#FF0000'>2) </font> effected by force or injury
+rather than natural causes
+<i>- a @@ death</i>
+<font color='#FF0000'>3) </font> (of colors or sounds)
+intensely vivid or loud
+<font color='#666666'>syn: </font>wild
+<i>- a @@ clash of colors</i>
+<i>- her dress was a @@ red</i>
+<i>- a @@ noise</i>
+<i>- wild colors</i>
+<i>- wild shouts</i>
+<font color='#FF0000'>4) </font> marked by extreme intensity
+of emotions or convictions
+inclined to react @@ly
+fervid
+<font color='#666666'>syn: </font> fierce, tearing,
+vehement, trigger-happy
+<i>- fierce loyalty</i>
+<i>- in a tearing rage</i>
+<i>- vehement dislike</i>
+<i>- @@ passions</i>
+<font color='#FF0000'>5) </font> characterized by violence
+or bloodshed
+<font color='#666666'>syn: </font>crimson, red
+<i> - 'writes of crimson deeds
+and barbaric days'- Andrea
+Parke</i>
+<i> - 'fann'd by Conquest's
+crimson wing'- Thomas Gray</i>
+<i> - 'convulsed with red rage'-
+Hudson Strode</i>
+&94=waiting=ожидать; ожидание; ждущий@@<font color='#009966'>Noun</font>
+<font color='#FF0000'>1) </font> the act of @@
+(remaining inactive in one
+place while expecting
+something)
+<font color='#666666'>syn: </font>wait
+<i> - the wait was an ordeal for
+him</i>
+<font color='#009966'>Adjective</font>
+<font color='#FF0000'>1) </font> being and remaining ready
+and available for use
+<font color='#666666'>syn: </font>ready and @@(p)
+<i> - @@ cars and limousines
+lined the curb</i>
+<i> - found her mother @@
+for them</i>
+<i> - an impressive array of food
+ready and @@ for the
+guests</i>
+<i> - military forces ready and
+@@</i>
+&95=warm=нагревать; тепло; теплый@@<font color='#009966'>Verb</font>
+<font color='#FF0000'>1) </font>get @@ or @@er
+<font color='#666666'>syn: </font>@@ up
+<i> - The soup @@ed slowly on
+the stove</i>
+<font color='#FF0000'>2) </font>make @@ or @@er
+<i>- The blanket will @@ you</i>
+<font color='#009966'>Adjective</font>
+<font color='#FF0000'>1) </font> having or producing a
+comfortable and agreeable
+degree of heat or imparting or
+maintaining heat
+<i>- a @@ body</i>
+<i>- a @@ room</i>
+<i>- a @@ climate</i>
+<i>- a @@ coat</i>
+<font color='#FF0000'>2) </font>psychologically @@
+friendly and responsive
+<i>- a @@ greeting</i>
+<i>- a @@ personality</i>
+<i>- @@ support</i>
+<font color='#FF0000'>3) </font> (color) inducing the
+impression of @@th
+ used especially of reds and
+oranges and yellows
+<i> - @@ reds and yellows and
+orange</i>
+<font color='#FF0000'>4) </font> having or displaying @@th
+or affection
+<font color='#666666'>syn: </font> affectionate, caring,
+fond, lovesome, tender
+<i>- affectionate children</i>
+<i>- caring parents</i>
+<i>- a fond embrace</i>
+<i>- fond of his nephew</i>
+<i>- a tender glance</i>
+<i>- a @@ embrace</i>
+<font color='#FF0000'>5) </font>freshly made or left
+<font color='#666666'>syn: </font>strong
+<i>- a @@ trail</i>
+<i>- the scent is @@</i>
+<font color='#FF0000'>6) </font>easily aroused or excited
+<font color='#666666'>syn: </font>quick
+<i>- a quick temper</i>
+<i>- a @@ temper</i>
+<font color='#FF0000'>7) </font> characterized by strong
+enthusiasm
+<font color='#666666'>syn: </font>ardent
+<i>- ardent revolutionaries</i>
+<i>- @@ support</i>
+<font color='#FF0000'>8) </font> characterized by liveliness
+or excitement or
+disagreement
+<i>- a @@ debate</i>
+<font color='#FF0000'>9) </font> uncomfortable because of
+possible danger or trouble
+<i> - made things @@ for the
+bookies</i>
+<font color='#FF0000'>10) </font>of a seeker
+near to the object sought
+<i>- you're getting @@</i>
+<i>- hot on the trail</i>
+<font color='#009966'>Adverb</font>
+<font color='#FF0000'>1) </font>in a @@ manner
+<font color='#666666'>syn: </font>@@ly
+<i>- @@ly dressed</i>
+<i>- @@-clad skiers</i>
+&96=wet=мокрый@@<font color='#009966'>Noun</font>
+<font color='#FF0000'>1) </font>@@ness caused by water
+<font color='#666666'>syn: </font>moisture
+<i> - drops of @@ gleamed on the
+window</i>
+<font color='#009966'>Verb</font>
+<font color='#FF0000'>1) </font>cause to become @@
+<i>- Wet your face</i>
+<font color='#FF0000'>2) </font> make one's bed or clothes
+@@ by urinating
+<i> - This eight year old boy
+still @@s his bed</i>
+<font color='#009966'>Adjective</font>
+<font color='#FF0000'>1) </font> covered or soaked with a
+liquid such as water
+<i>- a @@ bathing suit</i>
+<i>- @@ sidewalks</i>
+<i>- @@ weather</i>
+<font color='#FF0000'>2) </font> containing moisture or
+volatile components
+<i>-  @@ paint</i>
+<font color='#FF0000'>3) </font> supporting or permitting
+the legal production and
+sale of alcoholic beverages
+<i> - a @@ candidate running on
+a @@ platform</i>
+<i>- a @@ county</i>
+<font color='#FF0000'>4) </font>producing or secreting milk
+<font color='#666666'>syn: </font>lactating
+<i>- a @@ nurse</i>
+<i>- a @@ cow</i>
+<i>- lactating cows</i>
+<font color='#FF0000'>5) </font> consisting of or trading in
+alcoholic liquor
+<i>- a @@ cargo</i>
+<i>- a @@ canteen</i>
+<font color='#FF0000'>6) </font>very drunk
+<font color='#666666'>syn: </font> besotted, blind drunk,
+blotto, crocked,
+cockeyed, fuddled, loaded,
+pie-eyed, pissed, pixilated,
+plastered, potty, slopped,
+sloshed, smashed, soaked,
+soused, sozzled, squiffy,
+stiff, tiddly, tiddley, tight,
+tipsy
+&97=wide=широкий@@<font color='#009966'>Adjective</font>
+<font color='#FF0000'>1) </font> having great (or a certain)
+extent from one side to the
+other
+<font color='#666666'>syn: </font>broad
+<i>- @@ roads</i>
+<i>- a @@ necktie</i>
+<i>- @@ margins</i>
+<i>- three feet @@</i>
+<i>- a river two miles broad</i>
+<i>- broad shoulders</i>
+<i>- a broad river</i>
+<font color='#FF0000'>2) </font>broad in scope or content
+<font color='#666666'>syn: </font> across-the-board,
+all-embracing,
+all-encompassing,
+all-inclusive, blanket(a),
+broad, encompassing,
+extensive, panoptic
+<i> - across-the-board pay
+increases</i>
+<i>- an all-embracing definition</i>
+<i> - blanket sanctions against
+human-rights violators</i>
+<i> - an invention with broad
+applications</i>
+<i> - 'a panoptic study of Soviet
+nationality'- T.G.Winner</i>
+<i>- granted him @@ powers</i>
+<font color='#FF0000'>3) </font> (used of eyes) fully open
+or extended
+<font color='#666666'>syn: </font>@@-eyed
+<i>- stared with @@ eyes</i>
+<font color='#FF0000'>4) </font> very large in expanse or
+scope
+<font color='#666666'>syn: </font>broad, spacious
+<i>- a broad lawn</i>
+<i>- the @@ plains</i>
+<i>- a spacious view</i>
+<i>- spacious skies</i>
+<font color='#FF0000'>5) </font>great in degree
+<i>- won by a @@ margin</i>
+<font color='#FF0000'>6) </font>having ample fabric
+<font color='#666666'>syn: </font>@@-cut, full
+<i> - the current taste for @@
+trousers</i>
+<i>- a full skirt</i>
+<font color='#FF0000'>7) </font>not on target
+<font color='#666666'>syn: </font>@@ of the mark
+<i>- the kick was @@</i>
+<i> - the arrow was @@ of the
+mark</i>
+<i> - a claim that was @@ of
+the truth</i>
+<font color='#009966'>Adverb</font>
+<font color='#FF0000'>1) </font>with or by a broad space
+<i>- stand with legs @@ apart</i>
+<i>- ran @@ around left end</i>
+<font color='#FF0000'>2) </font> to the fullest extent
+possible
+<i>- open your eyes @@</i>
+<i>- with the throttle @@ open</i>
+<font color='#FF0000'>3) </font>far from the intended target
+<font color='#666666'>syn: </font>astray
+<i> - the arrow went @@ of the
+mark</i>
+<i> - a bullet went astray and
+killed a bystander</i>
+<font color='#FF0000'>4) </font> to or over a great extent
+or range
+far
+<font color='#666666'>syn: </font>@@ly
+<i> - wandered @@ through many
+lands</i>
+<i>- he traveled @@ly</i>
+&98=wise=мудрый@@<font color='#009966'>Noun</font>
+<font color='#FF0000'>1) </font>a way of doing or being
+<i>- in no @@</i>
+<i>- in this @@</i>
+<font color='#FF0000'>2) </font> United States Jewish leader
+(born in Hungary)
+(1874-1949)
+<font color='#666666'>syn: </font>Wise, Stephen Samuel Wise
+<font color='#FF0000'>3) </font> United States religious
+leader (born in Bohemia) who
+united reform Jewish
+organizations in the United
+States (1819-1900)
+<font color='#666666'>syn: </font>Wise, Isaac Mayer Wise
+<font color='#009966'>Adjective</font>
+<font color='#FF0000'>1) </font> having or prompted by
+wisdom or discernment
+<i>- a @@ leader</i>
+<i> - a @@ and perceptive
+comment</i>
+<font color='#FF0000'>2) </font> marked by the exercise of
+good judgment or common
+sense in practical matters
+<font color='#666666'>syn: </font>judicious, heady
+<i>- judicious use of one's money</i>
+<i>- a @@ decision</i>
+<font color='#FF0000'>3) </font> evidencing the possession
+of inside information
+<font color='#666666'>syn: </font> knowing, @@(p), @@
+to(p)
+<font color='#FF0000'>4) </font>improperly forward or bold
+<font color='#666666'>syn: </font> fresh, impertinent,
+impudent, overbold,
+smart, saucy, sassy
+<i>- don't be fresh with me</i>
+<i> - impertinent of a child to
+lecture a grownup</i>
+<i> - an impudent boy given to
+insulting strangers</i>
+<i>- Don't get @@ with me!</i>
+&99=yellow=желтый@@<font color='#009966'>Noun</font>
+<font color='#FF0000'>1) </font>@@ color or pigment
+ the chromatic color
+resembling the hue of
+sunflowers or ripe lemons
+<font color='#666666'>syn: </font>@@ness
+<font color='#009966'>Verb</font>
+<font color='#FF0000'>1) </font>turn @@
+<i> - The pages of the book began
+to @@</i>
+<font color='#009966'>Adjective</font>
+<font color='#FF0000'>1) </font> of the color intermediate
+between green and orange in
+the color spectrum
+ of something resembling the
+color of an egg yolk
+<font color='#666666'>syn: </font>@@ish, xanthous
+<font color='#FF0000'>2) </font>easily frightened
+<font color='#666666'>syn: </font> chicken, chickenhearted,
+lily-livered,
+white-livered, @@-bellied
+<font color='#FF0000'>3) </font> changed to a @@ish
+color by age
+<font color='#666666'>syn: </font>@@ed
+<i>- @@ed parchment</i>
+<font color='#FF0000'>4) </font>typical of tabloids
+<font color='#666666'>syn: </font> scandalmongering,
+sensationalistic,
+@@(a)
+<i> - sensational journalistic
+reportage of the scandal</i>
+<i>- @@ press</i>
+<font color='#FF0000'>5) </font>cowardly or treacherous
+<i> - 'the little @@ stain of
+treason'-M.W.Straight</i>
+<i> - too @@ to stand and
+fight</i>
+<font color='#FF0000'>6) </font> affected by jaundice which
+causes @@ing of skin etc
+<font color='#666666'>syn: </font>jaundiced, icteric
+&100=young=молодой@@<font color='#009966'>Noun</font>
+<font color='#FF0000'>1) </font>any immature animal
+<font color='#666666'>syn: </font>offspring
+<font color='#FF0000'>2) </font> United States film and
+television actress
+(1913-2000)
+<font color='#666666'>syn: </font>Young, Loretta Young
+<font color='#FF0000'>3) </font> United States civil rights
+leader (1921-1971)
+<font color='#666666'>syn: </font> Young, Whitney Young,
+Whitney Moore Young Jr.
+<font color='#FF0000'>4) </font> British physicist and
+Egyptologist
+ he revived the wave theory of
+light and proposed a
+three-component theory of
+color vision
+ he also played an important
+role in deciphering the
+hieroglyphics on the Rosetta
+Stone (1773-1829)
+<font color='#666666'>syn: </font>Young, Thomas Young
+<font color='#FF0000'>5) </font> United States jazz tenor
+saxophonist (1909-1959)
+<font color='#666666'>syn: </font> Young, Pres Young,
+Lester Willis Young
+<font color='#FF0000'>6) </font>English poet (1683-1765)
+<font color='#666666'>syn: </font>Young, Edward Young
+<font color='#FF0000'>7) </font> United States baseball
+player and famous pitcher
+(1867-1955)
+<font color='#666666'>syn: </font> Young, Cy Young, Danton
+True Young
+<font color='#FF0000'>8) </font> United States religious
+leader of the Mormon Church
+after the assassination of
+Joseph Smith
+ he led the Mormon exodus from
+Illinois to Salt Lake City,
+Utah (1801-1877)
+<font color='#666666'>syn: </font>Young, Brigham Young
+<font color='#FF0000'>9) </font>@@ people collectively
+<font color='#666666'>syn: </font>youth
+<i> - rock music appeals to the
+@@</i>
+<i> - youth everywhere rises in
+revolt</i>
+<font color='#009966'>Adjective</font>
+<font color='#FF0000'>1) </font> (used of living things
+especially persons) in an
+early period of life or
+development or growth
+<font color='#666666'>syn: </font>immature
+<i>- @@ people</i>
+<font color='#FF0000'>2) </font> (of crops) harvested at an
+early stage of development
+before complete maturity
+<font color='#666666'>syn: </font>new
+<i>- new potatoes</i>
+<i>- @@ corn</i>
+<font color='#FF0000'>3) </font>suggestive of youth
+vigorous and fresh
+<font color='#666666'>syn: </font>youthful, vernal
+<i>- he is @@ for his age</i>
+<font color='#FF0000'>4) </font>being in its early stage
+<i>- a @@ industry</i>
+<i>- the day is still @@</i>
+<font color='#FF0000'>5) </font> not tried or tested by
+experience
+<font color='#666666'>syn: </font> unseasoned, untested,
+untried
+<i> - unseasoned artillery
+volunteers</i>
+<i>- still untested in battle</i>
+<i> - an illustrator untried in
+mural painting</i>
+<i>- a @@ hand at plowing</i>

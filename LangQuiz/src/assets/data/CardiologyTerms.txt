@@ -1,0 +1,161 @@
+&0=Aortic=@@ Relating to the aorta, which
+is the major vessel that
+carries oxygenated blood from
+the heart to the body.
+Sometimes this term is used to
+denote the @@ valve, which
+is the valve that prevents
+back-flow of blood from the
+aorta into the left ventricle.
+(For example, "@@
+stenosis.") 
+&1=Artery=@@ A vessel that carries blood
+away from the heart. Arteries
+generally carry oxygenated
+blood. In mammals, the
+exception is the pulmonary
+@@, which carries
+deoxygenated blood to the
+lungs. 
+&2=Atrium=@@ The chamber of the heart that
+collects blood returning from
+the rest of the body. In all
+vertebrates but fish, there
+are two atria, left and right.
+The right @@ collects
+deoxygenated blood from the
+body and passes it to the
+right ventricle. The left
+@@ collects oxygenated
+blood from the lungs and
+passes it to the left
+ventricle. 
+&3=Coronary=@@ Relating to the heart, or to
+one of the two arteries that
+originate in the aorta and
+supply blood directly to heart
+tissue. 
+&4=Mitral Valve=@@ Valve that separates the left
+atrium and the left ventricle
+and prevents back-flow from
+the ventricle to the atrium.
+Derived from "miter," which it
+resembles. (A miter is a tall,
+pointed hat with peaks in
+front and back which is worn
+by a bishop.) 
+&5=Pulmonary=@@ Relating to the lungs.
+Sometimes this term is used to
+denote the @@ valve,
+which is the valve that
+prevents back-flow of blood
+from the @@ artery into
+the right ventricle. (For
+example, "@@
+regurgitation.") 
+&6=Tricuspid Valve=@@ Valve that separates the
+right atrium and the right
+ventricle and prevents
+back-flow from the ventricle
+to the atrium. It is composed
+of three leaf-like parts. 
+&7=Vein=@@ A vessel that carries blood
+toward the heart. 
+&8=Ventricle=@@ The chamber of the heart that
+is responsible for pumping
+blood out to the rest of the
+body. In mammals and birds,
+there are two @@s, left
+and right. The right @@
+pumps deoxygenated blood to
+the lungs via the pulmonary
+artery; the left @@
+pumps oxygenated blood to the
+body via the aorta. 
+Anemia 
+&9=Aneurysm=@@ A pathological blood-filled
+dilatation of a blood vessel. 
+&10=Angina pectoris=@@ Chest pain caused by
+insufficient blood flow to the
+heart muscle. 
+&11=Arrhythmia=@@Irregular heartbeat. 
+&12=Atherosclerosis=@@ An accumulation of
+fat-containing deposits on
+arterial walls. 
+&13=Bradycardia=@@Excessively slow heartbeat. 
+&14=Cyanosis=@@ A condition in which a
+person's skin is discolored to
+a bluish hue because of
+inadequate oxygenation of the
+blood. 
+&15=Diastole=@@ Normal period of relaxation
+and dilatation of the heart
+cavities. 
+&16=Dilatation=@@ the condition of being
+abnormally dilated or
+enlarged. 
+&17=Dyspnea=@@Difficulty in breathing. 
+&18=Cardiomyopathy=@@ This is the general term for
+diseases of the heart muscle.
+The most common of these
+diseases is the dilated
+@@ in which the
+disease weakens the heart
+muscle and causes left
+ventricular dilation leading
+to increased diastolic
+pressure and volume. 
+&19=Hypertension=@@ A condition in which a
+person's blood pressure is
+abnormally high. For normal
+adults, the pressure should be
+less than 130 mmHg systolic
+and less than 85 mmHg
+diastolic. Pressures above
+140/90 indicate a mild form of
+@@; above 180/110 is
+considered severe. 
+&20=Insufficiency=@@ Describes a condition in
+which a valve is not able to
+prevent back-flow of blood.
+The resulting back-flow is
+termed a regurgitation. 
+&21=Ischemia=@@ Localized loss of blood
+supply due to a mechanical
+obstruction. 
+&22=Prolapse=@@ Floppy valve, associated with
+regurgitation. 
+&23=Regurgitation=@@ Back-flow of blood through an
+insufficient valve. (For
+example, mitral valve
+@@.) 
+&24=Stenosis=@@ Constriction of a passage.
+Used typically when there is a
+narrowing of a valve opening
+(for example, mitral valve
+@@) or of a blood
+vessel. 
+&25=Syncope=@@ A brief loss of consciousness
+caused by temporary lack of
+oxygenated blood. 
+&26=Systole=@@ Period of contraction of the
+heart during which blood is
+ejected from the ventricles. 
+&27=Tachycardia=@@Excessively rapid heartbeat. 
+&28=Phenotype=@@ The observed properties or
+outward appearance of a trait. 
+&29=Genotype=@@ The genetic makeup of an
+organism with regard to the
+trait. 
+&30=Gene=@@ The unit of inheritance. A
+segment of DNA that provides
+the code for assembling a
+specific protein. 
+&31=Penetrance=@@ The probability that a
+disease phenotype will appear
+when a disease-related
+genotype is present. 
+&32=Expressivity=@@ The range of phenotypic
+variation that is present. For
+example, disease symptoms can
+be mild to severe in form. 
